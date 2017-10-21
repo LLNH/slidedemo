@@ -1,31 +1,31 @@
 class: center, middle
 
-# 讲义题目
+# 迷茫.jpg
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 黄一晗 (m13910396327@163.com)  
 
-主页: https://github.com/author
+主页: https://github.com/LLNH
 
 ---
 
 ## 本讲内容
 
-### <font color="orangered">1. 第一部分</font>
+### <font color="orangered">1. 这是啥啊</font>
 
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
+#### &nbsp; &nbsp; 1.1 令人窒息
+#### &nbsp; &nbsp; 1.2 咸鱼躺倒
+#### &nbsp; &nbsp; 1.3 快乐学习
 
-### 2. 第二部分
+### 2. 仍看不懂
 
-### 3. 第三部分
+### 3. 在缤纷色彩中玩耍
 
 ---
 
-## 第一部分
+## 这是啥啊
 
 ```c
 int main()
